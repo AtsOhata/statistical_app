@@ -1,0 +1,1 @@
+Spearman's rank correlation coefficient = 0.31333333333333335

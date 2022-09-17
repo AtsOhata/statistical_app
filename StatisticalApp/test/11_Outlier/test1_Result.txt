@@ -1,0 +1,2 @@
+Lower point = 8.5 Upper point = 48.5
+Outliers = 50

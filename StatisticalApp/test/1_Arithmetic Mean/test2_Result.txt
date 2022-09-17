@@ -1,0 +1,1 @@
+Arithmetic mean = 7.166666666666667

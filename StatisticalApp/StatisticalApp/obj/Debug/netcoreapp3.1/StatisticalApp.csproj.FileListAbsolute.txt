@@ -1,0 +1,17 @@
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\bin\Debug\netcoreapp3.1\StatisticalApp.exe
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\bin\Debug\netcoreapp3.1\StatisticalApp.deps.json
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\bin\Debug\netcoreapp3.1\StatisticalApp.runtimeconfig.json
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\bin\Debug\netcoreapp3.1\StatisticalApp.runtimeconfig.dev.json
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\bin\Debug\netcoreapp3.1\StatisticalApp.dll
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\bin\Debug\netcoreapp3.1\StatisticalApp.pdb
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.csprojAssemblyReference.cache
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.Form1.resources
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.csproj.GenerateResource.cache
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.AssemblyInfoInputs.cache
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.AssemblyInfo.cs
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.csproj.CoreCompileInputs.cache
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.dll
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.pdb
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.genruntimeconfig.cache
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.Form2.resources
+C:\Users\yogso\Desktop\プロジェクト\StatisticalApp\StatisticalApp\obj\Debug\netcoreapp3.1\StatisticalApp.Form3.resources

@@ -1,0 +1,5 @@
+,Whole,Counted items0,Counted items1
+Whole,300(100%),135(45%),165(55%)
+Classified items0,200(100%),102(51%),98(49%)
+Classified items1,100(100%),33(33%),67(67%)
+Cramer's coefficient of association = 0.17056057308448833

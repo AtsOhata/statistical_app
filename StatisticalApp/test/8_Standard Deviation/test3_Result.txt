@@ -1,0 +1,2 @@
+Standard deviation = 0.48989794855663565
+Unbiased standard deviation = 0.5477225575051662
